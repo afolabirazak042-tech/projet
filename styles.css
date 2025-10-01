@@ -1,0 +1,44 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+
+#cadre{
+    height: 50vh;
+    width: 130vh;
+    background-color: rgb(126, 107, 107);
+    margin: 50% auto;
+
+
+}
+
+#texte{
+    height: 6vh;
+    
+    margin-left: 72vh;
+
+}
+#cercle{
+    height: 30vh;
+    width: 30vh;
+    background-color: green;
+    border-radius: 50%;
+    margin-left: -15vh;
+}
+
+button{
+    height: 7vh;
+    width: 30vh;
+    background-color: brown;
+    margin-left: 60vh;
+    margin-top: 5vh;
+    font-size: 5vh;
+    color: black;
+    border-left-color: black;
+    border-radius: 30%;
+}
+
+
